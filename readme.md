@@ -2,28 +2,7 @@
 
 This repository contains solutions for two assignments focusing on **Python programming, API data handling, SQLite database operations, data visualization, and AI/ML concepts**.
 
----
-
-## 📁 Project Structure
-
-Accuknox_assignment/
-│
-├── Problem_statement_1/
-│ ├── books_api.py
-│ ├── students_scores.py
-│ ├── csv_to_db.py
-│ ├── database.db
-│ ├── users.csv
-│ ├── bar_chart_image.png
-│ └── README.md
-│
-├── Problem_statement_2/
-│ └──prajwal_kumar_assignment2
-
-yaml
-Copy code
-
----
+-
 
 ## 🧩 Problem Statement 1
 
@@ -44,7 +23,7 @@ Copy code
 #### Bar Chart of Students’ Average Scores
 The computed average test score across all students is **84.88**.
 
-![Students Score Bar Chart](Problem_statement_1/bar_chart_image.png)
+![Students Score Bar Chart](Problem_statement_1/Bar_chart_image.png)
 
 ---
 
@@ -77,20 +56,7 @@ This assignment focuses on understanding **LLM-based system design** and mapping
 - Identifying how vector databases support semantic search and retrieval
 - Applying these concepts to a practical customer support chatbot scenario
 
- ## Problem Statement 2 – Workflow
-
-```mermaid
-flowchart TD
-    A[Start] --> B[Self-Assessment of Skills]
-    B --> C[Identify Strengths and Learning Areas]
-    C --> D[Study LLM Architecture]
-    D --> E[Define Chatbot Components]
-    E --> F[Understand Vector Embeddings]
-    F --> G[Choose Vector Database (FAISS)]
-    G --> H[Map to Customer Support Chatbot]
-    H --> I[Summarize Learnings]
-    I --> J[End]
-```
+ 
 
 ## 🛠️ Technologies Used
 
