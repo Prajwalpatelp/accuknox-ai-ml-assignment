@@ -78,7 +78,9 @@ This assignment focuses on understanding **LLM-based system design** and mapping
 - Applying these concepts to a practical customer support chatbot scenario
 
  ## Problem Statement 2 – Workflow
+
 ```mermaid
+flowchart TD
     A[Start] --> B[Self-Assessment of Skills]
     B --> C[Identify Strengths and Learning Areas]
     C --> D[Study LLM Architecture]
@@ -108,13 +110,19 @@ git
 cd Accuknox_assignment
 ```
 ### 2. Create and Activate Virtual Environment
+```bash
 python -m venv venv
 venv\Scripts\activate
+```
 
 ### 3. Install Dependencies
+```bash
 pip install -r requirements.txt
+```
 
 ### 4. Run Individual Scripts
+```bash
 python books_api.py
 python students_viz.py
 python users_import.py
+```
