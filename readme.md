@@ -73,7 +73,7 @@ This assignment focuses on understanding **LLM-based system design** and mapping
 
 ### 1. Clone the Repository
 ```bash
-git 
+git repo clone Prajwalpatelp/accuknox-ai-ml-assignment 
 cd Accuknox_assignment
 ```
 ### 2. Create and Activate Virtual Environment
