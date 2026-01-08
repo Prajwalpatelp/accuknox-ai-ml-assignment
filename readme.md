@@ -23,7 +23,8 @@ This repository contains solutions for two assignments focusing on **Python prog
 #### Bar Chart of Students’ Average Scores
 The computed average test score across all students is **84.88**.
 
-![Students Score Bar Chart](Problem_statement_1/Bar_chart_image.png)
+![Students Score Bar Chart](Bar_chart_image.png)
+
 
 ---
 
